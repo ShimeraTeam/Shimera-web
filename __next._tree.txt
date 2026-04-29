@@ -1,2 +1,2 @@
 :HL["/Shimera-web/_next/static/chunks/0pmnb7qu9tjqj.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"TIgsJNvA_FsXhaLi2-fHI"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"7aLX2sI1MgnnfsJfqh8Tn"}
