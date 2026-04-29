@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/Shimera-web//_next/:path+",
+        "destination": "/Shimera-web/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
